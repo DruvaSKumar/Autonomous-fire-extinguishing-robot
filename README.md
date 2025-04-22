@@ -40,6 +40,13 @@ After executing the above commands, open a new terminal and execute the followin
 cd path/to/talos-project/src/yolobot_recognition/scripts
 python ros_recognition_yolo.py
 ```
+## Preview of the Robot
+
+<p align="center">
+  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\2.jpg" width="400"/>
+  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\1.jpg" width="400"/>
+  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\3.jpg" width="400"/>
+</p>
 
 ## Video of the implementation
 https://github.com/t8140140/talos-project/assets/15681263/8a96e4f3-48ad-4b51-9b8e-1a91fc2dcaf8
