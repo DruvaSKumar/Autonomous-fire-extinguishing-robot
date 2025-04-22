@@ -1,4 +1,5 @@
-# talos-project
+# Autonomous-fire-extinguishing-robot
+
 Fire detection mobile robot using ros2 and gazebo
 
 ## Folder Structure
@@ -22,7 +23,7 @@ Follow the instructions on the [Gazebo installation page](http://gazebosim.org/t
 ### Exececuting the project
 After installing the prerequisite dependencies, execute the following commands in the terminal to run the project
 ```
-cd path/to/talos-project
+cd path/to/roject
 ```
 ```
 colcon build
@@ -37,15 +38,15 @@ ros2 launch yolobot_gazebo gazebo_launch.py
 ### Executing the fire detection mechanism
 After executing the above commands, open a new terminal and execute the following commands
 ```
-cd path/to/talos-project/src/yolobot_recognition/scripts
+cd path/to/project/src/yolobot_recognition/scripts
 python ros_recognition_yolo.py
 ```
 ## Preview of the Robot
 
 <p align="center">
-  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\2.jpg" width="400"/>
-  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\1.jpg" width="400"/>
-  <img src="D:\projects\fire_fighting_robot\Autonomous-fire-extinguishing-robot\images\3.jpg" width="400"/>
+  <img src="images/2.jpg" width="400"/>
+  <img src="images/1.jpg" width="400"/>
+  <img src="images/3.jpg" width="400"/>
 </p>
 
 ## Video of the implementation
