@@ -44,9 +44,9 @@ python ros_recognition_yolo.py
 ## Preview of the Robot
 
 <p align="center">
-  <img src="images/2.jpg" width="400"/>
-  <img src="images/1.jpg" width="400"/>
-  <img src="images/3.jpg" width="400"/>
+  <img src="images/2.jpg" width="350"/>
+  <img src="images/1.jpg" width="200"/>
+  <img src="images/3.jpg" width="350"/>
 </p>
 
 ## Video of the implementation
